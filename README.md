@@ -2,6 +2,8 @@
 
 NoteVault is a full-stack MERN application that allows users to securely create, read, update, and delete personal notes. It uses JWT authentication for secure access and follows a clean separation between frontend, backend, and database layers.
 
+Live demo: [https://your-frontend.onrender.com](https://notevault-frontend-b5av.onrender.com)
+
 ---
 
 ## 🚀 Features
