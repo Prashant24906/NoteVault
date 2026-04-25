@@ -67,7 +67,6 @@ MONGO_URI=your_mongodb_atlas_uri
 JWT_SECRET=your_secret_key
 PORT=5000
 
-
 Frontend environment variable:
 
 REACT_APP_HOST=https://your-backend-url.onrender.com/
