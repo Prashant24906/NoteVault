@@ -104,7 +104,6 @@ Designed REST APIs with Express
 Used Context API for global state management
 Worked with MongoDB Atlas in production
 Deployed a full MERN app using Render
-
 ---
 ## 📌 Future Improvements
 
